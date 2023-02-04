@@ -12,11 +12,6 @@
 <h3>SAMPLE URL:</h3>
 <p>1. FORM: http://o2ebrands.shripalzala.com/admin/config/development/import-csv </p>
 
-<h4>ADMIN CREDENTIALS</h4>
-<p>ADMIN URL: http://o2ebrands.shripalzala.com/user </p>
-<p>Username: o2ebrands</p>
-<p>Password: o2ebrands</p>
-
 <h2>PART 2: Create a filter to display all managers on the page “/employees/manager” and “employees/all” must show all employees.</h2>
 
 <p>I have created views for it and displayed result in table format with pagination.</p>
