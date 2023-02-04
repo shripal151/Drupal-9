@@ -1,0 +1,5 @@
+name: CSV Import
+type: module
+description: 'Drupal 9 Custom module for CSV Import.'
+package: custom
+core_version_requirement: ^8 || ^9 || ^10

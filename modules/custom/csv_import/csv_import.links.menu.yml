@@ -1,0 +1,5 @@
+csv_import.form:
+  title: CSV Import
+  description: 'Import data from CSV.'
+  parent: system.admin_config_development
+  route_name: csv_import.view

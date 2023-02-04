@@ -1,0 +1,7 @@
+csv_import.view:
+  path: '/admin/config/development/import-csv'
+  defaults:
+    _controller: '\Drupal\csv_import\Controller\ImportPage::view'
+    _title: 'CSV Import'
+  requirements:
+    _permission: 'administer site configuration'
