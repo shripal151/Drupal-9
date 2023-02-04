@@ -13,6 +13,7 @@
 <p>1. FORM: http://o2ebrands.shripalzala.com/admin/config/development/import-csv </p>
 
 <h4>ADMIN CREDENTIALS</h4>
+<p>ADMIN URL: http://o2ebrands.shripalzala.com/user </p>
 <p>Username: o2ebrands</p>
 <p>Password: o2ebrands</p>
 
