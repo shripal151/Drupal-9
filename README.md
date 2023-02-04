@@ -12,7 +12,7 @@
 <h3>SAMPLE URL:</h3>
 <p>1. FORM: http://o2ebrands.shripalzala.com/admin/config/development/import-csv </p>
 
-<h4>ADMINT CREDENTIALS</h4>
+<h4>ADMIN CREDENTIALS</h4>
 <p>Username: o2ebrands</p>
 <p>Password: o2ebrands</p>
 
